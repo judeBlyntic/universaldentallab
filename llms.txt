@@ -1,0 +1,32 @@
+# Universal Dental Laboratory
+
+> Universal Dental Laboratory (UDL) is a dental laboratory in Blockhouse Bay, Auckland, New Zealand, making crown & bridge, implant restorations, All-on-4/6 full-arch prostheses, orthodontic appliances, surgical guides and smile design for dental clinics across New Zealand for over 15 years.
+
+- Address: 70 Mcfadzean Drive, Blockhouse Bay, Auckland 0600, New Zealand
+- Phone: 021 053 8156 (+64210538156)
+- Email: info@udl.nz
+- Customers: dentists and dental clinics (business-to-business)
+- Digital scans accepted: 3Shape TRIOS, iTero, Medit; denture scans too
+- Delivery: track-and-trace courier (same-day or next-day by location); drop-off within about 5 km of Blockhouse Bay
+- New-dentist offer: 20% off crown & bridge for your first three months
+- RX forms: https://drive.google.com/drive/folders/1DLwlyOq2QOLuRb28wxeqlomFmraf5q83
+
+## Services
+
+- [Crown & Bridge](https://universaldentallab.co.nz/services/crown-and-bridge/): Single crowns to multi-unit bridges, designed from your scan and finished by hand at the bench.
+- [Implant Restorations](https://universaldentallab.co.nz/services/implants/): Custom abutments and implant crowns, from a single tooth through to full-arch.
+- [All-on-4 & All-on-6](https://universaldentallab.co.nz/services/all-on-4-6/): Full-arch implant prostheses on four or six implants.
+- [Orthodontic Appliances](https://universaldentallab.co.nz/services/orthodontic-appliances/): Retainers, night guards and clear aligners, made to your prescription.
+- [Surgical Guides](https://universaldentallab.co.nz/services/surgical-guides/): Guides that transfer your implant plan to the mouth for more predictable placement.
+- [Smile Design](https://universaldentallab.co.nz/services/smile-design/): Digital Smile Design blueprints and wearable mock-ups before treatment starts.
+
+## FAQ
+
+- **How do I start sending cases to UDL?** Send us a message through the contact form or call 021 053 8156. We will send you RX forms, and clinics within about 5 km of Blockhouse Bay or central Auckland can arrange drop-off at a time that suits.
+- **Is there an offer for new dentists?** Yes: 20% off all crown & bridge for your first three months. You can also take up an optional free business and website audit from our partner agency, Dental Ascend.
+- **How should I pack a case?** Disinfect all impressions and bites, bag items where possible, wrap models, secure everything so nothing moves in transit, and label the box clearly.
+- **How do cases get to and from the lab?** By track-and-trace courier, with same-day or next-day options depending on where you are. Same-day pick-up or drop-off is available for urgent cases; fees may apply.
+- **What is the earliest a case can come back?** Call the lab with the patient and case details. For upcoming cases, tell us what you need in advance: with a little planning we can usually accommodate you.
+- **Are RX forms free, and how do I get them?** Yes. Download them from this site, email us at info@udl.nz, or ask and we will courier a set to your clinic.
+- **Which digital scans do you accept?** Scans from 3Shape TRIOS, iTero and Medit intraoral scanners, plus denture scans.
+- **How do I connect my 3Shape TRIOS to UDL?** Create and activate a 3Shape Communicate account. In TRIOS, open Lab Connection, choose Configure Communicate, then Add lab. On the 3Shape Communicate portal go to Connections, Add connection, search for Universal Dental Lab and click Connect. Call us on 021 053 8156 to confirm; once we accept, our order templates download to your TRIOS automatically.

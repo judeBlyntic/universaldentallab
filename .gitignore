@@ -1,0 +1,8 @@
+# Local tooling and internal planning notes
+.claude/
+.vercel/
+docs/
+node_modules/
+
+# Source stock image the placeholders were cut from (not used by the site)
+the-2-parts-Of-a-denture-appliance.jpg
