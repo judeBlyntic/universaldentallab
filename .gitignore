@@ -6,3 +6,6 @@ node_modules/
 
 # Source stock image the placeholders were cut from (not used by the site)
 the-2-parts-Of-a-denture-appliance.jpg
+
+.vercel
+.env*
