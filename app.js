@@ -88,8 +88,9 @@ contactForm.addEventListener('submit', async e => {
     status.classList.add('ok');
     status.textContent = 'Thanks, your message is on its way. We’ll be in touch soon.';
   } catch (err) {
+    console.error('Contact form failed:', err.message); // e.g. FormSubmit "needs Activation"
     status.classList.add('err');
-    status.replaceChildren(`Sorry, that didn’t send (${err.message}). Please email `,
+    status.replaceChildren('Sorry, your message didn’t send. Please email ',
       Object.assign(document.createElement('a'), { href: `mailto:${FALLBACK_EMAIL}`, textContent: FALLBACK_EMAIL }), ' instead.');
   } finally {
     btn.disabled = false;
